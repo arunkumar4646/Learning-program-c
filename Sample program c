@@ -1,0 +1,7 @@
+#include<stdio.h> //library 
+void main()
+  { 
+      //starting of program 
+   printf("Sample program\n"); 
+   
+  }
